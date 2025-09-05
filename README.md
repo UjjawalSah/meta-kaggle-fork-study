@@ -42,21 +42,25 @@ The goal was to uncover patterns in **fork behavior, peak activity times, and ef
    ```
 3. Run the cells to reproduce analysis & visualizations.
 
-##🎯 Key Insights
+## 🎯 Key Insights
 
-- Clear tutorials drive the highest fork rates
+- 📘 **Clear tutorials** drive the highest fork rates  
+- 🔗 **End-to-end pipelines** spread effectively across the community  
+- ⏰ **Peak activity hour:** 20:00 UTC  
+- 📅 **Busiest days:** Fridays & Tuesdays  
 
-- End-to-end pipelines spread effectively across the community
+---
 
-- Peak activity hour: 20:00 UTC
+## 💡 Contributors
 
-- Busiest days: Fridays & Tuesdays
+- **Project:** Meta Kaggle Hackathon  
+- **Author:** Ujjawal Kumar  
 
-##💡 Contributors
+---
 
-- Project: **Meta Kaggle Hackathon**
+## 📝 License
 
-- Author: Ujjawal Kumar
+This work is licensed under the **Attribution 4.0 International (CC BY 4.0) License**.  
+You are free to share and adapt the material with proper attribution.  
 
-##📝 License
--This work is licensed under the Attribution 4.0 International (CC BY 4.0) License.
+[Learn More About CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
